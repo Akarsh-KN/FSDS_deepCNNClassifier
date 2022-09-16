@@ -5,9 +5,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "FSDS_NOV_deepCNNClassifier"
+REPO_NAME = "FSDS_deepCNNClassifier"
 AUTHOR_USER_NAME = "Akarsh-KN"
-SRC_REPO = "deepClassifier"
+SRC_REPO = "FSDS_deepCNNClassifier"
 AUTHOR_EMAIL = "akarshkn136259@gmail.com"
 
 setuptools.setup(
