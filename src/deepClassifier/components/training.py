@@ -76,4 +76,4 @@ class Training:
             callbacks=callback_list,
         )
 
-        self.save_model(path=self.config.trainied_model_path, model=self.model)
+        self.save_model(path=self.config.trained_model_path, model=self.model)
